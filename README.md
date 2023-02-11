@@ -1,0 +1,1 @@
+# GBPUSD-historical-data-Regression-Analysis
